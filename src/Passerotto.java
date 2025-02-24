@@ -6,7 +6,7 @@ public class Passerotto extends AbstractAnimale implements Volatile {
 
     @Override
     public void mangia(){
-        System.out.println("Mangia vermi");
+        System.out.println("Mangio vermi");
     }
 
     @Override
